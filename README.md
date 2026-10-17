@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Nirmalkumar-2008">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&height=60&lines=Hi+there!+I'm+Nirmal+%F0%9F%91%8B;CS+%26+Business+Systems+Undergrad+%F0%9F%8E%93;Building+with+Java+%26+Spring+Boot+%E2%98%95;Training+ML+models+that+explain+themselves+%F0%9F%A4%96;452%2B+LeetCode+problems+solved+%F0%9F%92%A1;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=720&height=60&lines=Hi+there!+I'm+Nirmal+%F0%9F%91%8B;Computer+Science+and+Business+Systems+Undergrad+%F0%9F%8E%93;Building+with+Java+%26+Spring+Boot+%E2%98%95;Training+ML+models+that+explain+themselves+%F0%9F%A4%96;450%2B+LeetCode+problems+solved+%F0%9F%92%A1;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,26 +16,21 @@
   <a href="mailto:nirmalnicky916@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nirmalkumar-2008&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/Nirmalkumar-2008?style=flat-square&logo=github&color=36BCF7" alt="followers" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-> **Computer Science & Business Systems** undergraduate at **Chennai Institute of Technology** (Expected 2029, CGPA 8.48/10), interested in **AI/ML**, **Java backend development**, and **software engineering**. I build web apps and AI-powered decision-support systems with Java, Spring Boot, Python, and machine learning libraries.
+> **Computer Science and Business Systems** undergraduate at **Chennai Institute of Technology** (Expected 2029, CGPA 8.48/10), interested in **AI/ML**, **Java backend development**, and **software engineering**. I build web apps and AI-powered decision-support systems with Java, Spring Boot, Python, and machine learning libraries.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📍 Highlights
-- 🎓 B.Tech CSBS @ Chennai Institute of Technology
+- 🎓 B.Tech in Computer Science and Business Systems @ Chennai Institute of Technology
 - 🏅 Semi-Finalist, **Build with Bharat 2.0** (NIT Delhi, Team Sonic Forge)
 - 💼 **AICTE-EduSkills** Java Full Stack Virtual Intern
-- 🧠 **452+** LeetCode solved, contest rating **1572**
+- 🧠 **450+** LeetCode solved, contest rating **1572**
 - 🌍 Tamil Nadu, India
 
 </td>
@@ -115,7 +110,7 @@ Weighted room-scoring algorithm, food demand prediction, complaint prioritizatio
 ## 🏆 Achievements and Certifications
 
 - 🥇 **Semi-Finalist**, Build with Bharat 2.0, NIT Delhi (National Hackathon, 13-14 Sept 2026)
-- 🧩 **452+ LeetCode problems**, contest rating **1572**
+- 🧩 **450+ LeetCode problems**, contest rating **1572**
 - 🐍 Cisco Python Essentials 1 and 2
 - 🤖 Cisco Introduction to Modern AI
 - 🖥️ Cisco Operating Systems Basics
@@ -131,14 +126,6 @@ Weighted room-scoring algorithm, food demand prediction, complaint prioritizatio
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nirmalkumar-2008&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nirmalkumar-2008&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmalkumar-2008&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ### 🧩 LeetCode
